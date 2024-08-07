@@ -3,7 +3,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_insert_left - this func inserts a node as left child of another node
+ * binary_tree_insert_left - this func inserts a node as left child
  * @parent: pointer to the node
  * @value: value to be stored in new_node
  * Return: pointer to the new node or NULL
